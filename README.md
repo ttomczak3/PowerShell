@@ -28,3 +28,5 @@ Git:
 ```
 winget install --id Git.Git -e --source winget
 ```
+
+Oh My Posh Themes: https://ohmyposh.dev/docs/themes
