@@ -8,7 +8,7 @@ iwr -useb get.scoop.sh | iex
 
 Oh My Posh: 
 ```
-iwr -useb get.scoop.sh | iex
+scoop install https://github.com/JanDeDobbeleer/oh-my-posh/releases/latest/download/oh-my-posh.json
 ```
 ```
 scoop update oh-my-posh
